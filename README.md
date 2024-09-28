@@ -1,3 +1,49 @@
+# Computer Organization Assignments
+
+This repository contains all the assignments I have completed for the **Fundamentals and Applications of Generative AI** course. Below is a brief overview of each assignment. You can find more details in the corresponding PDF files, and the code in each directory.
+
+## 1. Arithmetic Text Generation
+- **Objective**: Developed arithmetic text generation using RNN, GRU, and LSTM models, focusing on the effects of hyperparameters (batch size, learning rate) and training data distribution on model performance.
+- **Assignment Details**: [Assignment Requirements](https://github.com/hsylin/GAI/blob/main/C14096073_GAI_Project2a/GAI_Project2a_requirment.pdf)  [Report](https://github.com/hsylin/GAI/blob/main/C14096073_GAI_Project2a/GAI_Project2a_report.pdf)
+- **Code and Documentation**: The complete implementation and related files are available in the `C14096073_GAI_Project2a` directory.
+
+## 2. Text Summarization
+- **Objective**:  Implemented text summarization using T5 and GPT2 on a Chinese dataset, focusing on data preprocessing, model fine-tuning, and performance evaluation with ROUGE metrics, and compared the performance of T5 and GPT2 on text summarization tasks.
+- **Assignment Details**: [Assignment Requirements](https://github.com/hsylin/GAI/blob/main/C14096073_GAI_Project2b/GAI_Project2b_requirment.pdf) [Report](https://github.com/hsylin/GAI/blob/main/C14096073_GAI_Project2b/GAI_Project2b_report.pdf)
+- **Code and Documentation**: The complete implementation and related files are available in the `C14096073_GAI_Project2b` directory.
+
+## 3. PEFT on GLUE Benchmarks
+- **Objective**:  Fine-tuned the BERT-base-uncased model on MRPC and SST-2 datasets, comparing Parameter-Efficient Fine-Tuning (PEFT) methods like Bitfit and LoRA to assess differences in model performance and efficiency.
+- **Assignment Details**: [Assignment Requirements]( https://github.com/hsylin/GAI/blob/main/C14096073_GAI_Project3/GAI_Project3_requirment.pdf)   [Report](https://github.com/hsylin/GAI/blob/main/C14096073_GAI_Project3/GAI_Project3_report.pdf)
+- **Code and Documentation**: The complete implementation and related files are available in the `C14096073_GAI_Project3` directory.
+
+## 4. DDPM-DIP-Image-Generation
+- **Objective**: Integrated Denoising Diffusion Probabilistic Models (DDPM) with Deep Image Prior (DIP) to improve image generation quality. The project includes experiments comparing standalone models with the combined approach, highlighting advancements in both image quality and generation speed.
+- **Assignment Details**: [Assignment Requirements](https://github.com/hsylin/GAI/blob/main/C14096073_GAI_Project4/requirement.pdf)     [Report](https://github.com/hsylin/GAI/blob/main/C14096073_GAI_Project4/report.pdf)
+- **Code and Documentation**: The complete implementation and related files are available in the `C14096073_GAI_Project4` directory.
+
+## Reference(for project4)
+[Deep Image Prior](https://github.com/DmitryUlyanov/deep-image-prior)  
+[Denoising Diffusion Probabilistic Models](https://github.com/bot66/MNISTDiffusion/tree/main)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Course Assignments: DDPM-DIP Integration for Image Generation
 
 [Assignment Requirements PDF](https://github.com/hsylin/DDPM-DIP-Fusion/blob/main/requirement.pdf)
