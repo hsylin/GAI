@@ -22,7 +22,7 @@ This repository contains all the assignments I completed for the **Fundamentals 
 - **Assignment Details**: [Requirements](https://github.com/hsylin/GAI/blob/main/C14096073_GAI_Project4/requirement.pdf) | [Report](https://github.com/hsylin/GAI/blob/main/C14096073_GAI_Project4/report.pdf)
 - **Code and Documentation**: The complete implementation and related files are available in the [`C14096073_GAI_Project4`](https://github.com/hsylin/GAI/tree/main/C14096073_GAI_Project4) directory.
 
-## References for Project 4
+## References
 - [Deep Image Prior](https://github.com/DmitryUlyanov/deep-image-prior)
 - [Denoising Diffusion Probabilistic Models](https://github.com/bot66/MNISTDiffusion/tree/main)
 
